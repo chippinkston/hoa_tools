@@ -4,6 +4,7 @@ In order to accommodate for price changes and 'grandfathering' in existing users
 #Required
 1. A Product_Price must have a `Product`
 2. A Product_Price must have a Numeric Value
+3. A Product_Price needs to be Pro Rate-able
 
 ## Relationships
 * `Product`
