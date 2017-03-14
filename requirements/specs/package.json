@@ -1,0 +1,22 @@
+{
+  "name": "hoa-specs",
+  "version": "0.0.1",
+  "description": "HOA Tools Spec Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber.js"
+  },
+  "keywords": [
+    "HOA Tools",
+    "test",
+    "testing",
+    "spec"
+  ],
+  "author": "Chip Pinkston",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^2.25.1",
+    "cucumber": "^2.0.0-rc.8",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
